@@ -13,4 +13,11 @@ option.
     Radiant::Config['hidden_filters'] = 'Markdown, SmartyPants, Textile'
     
 
+## Installation
+
+Use the radiant installation script. Run the following command from the root of your radiant installation.
+
+  script/extension install hidden_filters
+  
+
 
